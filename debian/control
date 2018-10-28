@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Icons
 Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
 Provides: PICOL.h
-Description: PICOL library
+Description: PICOL
  The PICOL icon set for the MonoIcon widget system
 
 
